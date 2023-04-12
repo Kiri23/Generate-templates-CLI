@@ -40,7 +40,7 @@ Create a CLI tool to generate project templates. The tool should inspect a folde
 6. The tool displays a success message to the user.
 
 
-![](/userFlow.png "User Flow Diagram")
+![](./userFlow.png "User Flow Diagram")
 [Mermaid js Diagram ref](https://mermaid.ink/img/pako:eNpVUsFOAjEQ_ZVJuUACCQcPsiYaYJELEiN6MJRDaWeh0m03bVclwL877Mqi2aTZvvfmzZu2ByadQpawjRfFFmYv3EojQkgxgxCFj3OiIdPGJK1BfzIZ9O_-KtCgjKgqUYje7TBp9fu39HXrbe9Lq7hNborvbm0iZXZxgOG1RYON_5kSzG0o13W6KVr0IiI8e_dBGnjFvDAEBG6H7fbibNbpQK93f5xihHhhjzBqz3SI4DIQn0IbsTZ4pTvcjqqiRdW5IY4wPrwF9L-JAoiGejhxOz7XwPH97J8uFwVKne1BYYjaiqidBaU91Tm_X3GbVh3SsjBaVt6TdrNpRm78IXNGoadkkzpZKSUGavS4THUgyR5CDUFOi9jgqgk0dzQvt2gVt6zLcvS50Iqu-MAtAGdxizlyltCvEn7HGbcn0okyusXeSpZEX2KXlYWiIKkWdPb5BUSlaZ6n-slUL-f0Axmpy7k)
 
 
