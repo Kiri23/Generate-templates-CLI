@@ -34,6 +34,9 @@ The CLI Project Template Generator is a command-line tool designed to allow user
 - The tool will duplicate the selected template folder into a new directory with the specified name and destination
 - Use project-template-generator --help to display the available commands and options
 
+## Documentation
+Documentation on how the CLI application was made, including the decisions that were made, such as the requirements, the organizations, and the design pattern used, can be found in the [docs](/docs) directory.
+
 ## Contributing
 
 Contributions are welcome and encouraged. To contribute to the project, please follow these steps:
