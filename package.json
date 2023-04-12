@@ -1,0 +1,25 @@
+{
+  "name": "generate-template-",
+  "version": "1.0.0",
+  "description": "collection of project templates ",
+  "main": "bin/cli-template-generator.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "generate-template": "bin/cli-template-generator.js"
+  },
+  "author": "Christian Nogueras",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^7.0.2",
+    "chalk": "^5.2.0",
+    "commander": "^10.0.0",
+    "fs-extra": "^11.1.1",
+    "inquirer": "^9.1.5",
+    "log-symbols": "^5.1.0",
+    "ora": "^6.3.0",
+    "update-notifier": "^6.0.2"
+  }
+}
