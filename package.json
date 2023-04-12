@@ -2,13 +2,13 @@
   "name": "generate-template-",
   "version": "1.0.0",
   "description": "collection of project templates ",
-  "main": "bin/cli-template-generator.js",
+  "main": "./bin/cli-template-generator.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "generate-template": "bin/cli-template-generator.js"
+    "generate-template": "./bin/cli-template-generator.js"
   },
   "author": "Christian Nogueras",
   "license": "ISC",
